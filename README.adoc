@@ -13,3 +13,8 @@ The information should be searchable, filterable and editable.
 * The modern UI will be realized with *JavaFX* assisted by an an embedded web server, probably *Jetty*.
 * Search will be based on *Lucene*, or maybe Elastic Search.
 * Initially supported textual markups are *Markdown* and *Asciidoc*.
+
+== Inspirationen
+
+* http://zim-wiki.org/[ZIM Desktop Wiki]
+* http://www.moo.do/[Moo.do] 
