@@ -1,1 +1,13 @@
-ListerX Information Organizer
+This once will be an application and platform supporting *personal information management* on the *Desktop*, primarily.
+
+== Goals
+
+* Integrate as much of a user's personal information as feasible and provide an *integrated view* on local and remote sources.
+The information should be searchable, filterable and editable.
+* The platform should allow easy extension (as well as reduction) of functionality, for which as much as possible will be realized as plugins for some kind of *Micro Kernel*.
+
+== Technology
+
+* In order to be platform independent and properly integrated into the user's desktop environment, the programming language will be *Java*. Other JVM languages should be easily usable as well.
+* The modern UI will be realized with *JavaFX* assisted by an an embedded web server, probably *Jetty*.
+* Search will be based on *Lucene*, or maybe Elastic Search.
