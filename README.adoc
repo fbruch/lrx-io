@@ -14,7 +14,7 @@ The information should be searchable, filterable and editable.
 * Search will be based on *Lucene*, or maybe Elastic Search.
 * Initially supported textual markups are *Markdown* and *Asciidoc*.
 
-== Inspirationen
+== Inspirations
 
 * http://zim-wiki.org/[ZIM Desktop Wiki]
 * http://www.moo.do/[Moo.do] 
