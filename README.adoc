@@ -2,11 +2,13 @@ This once will be an application and platform supporting *personal information m
 
 == Goals
 
-* Integrate as much of a user's personal information as feasible and provide an *integrated view* on all local and eventually remote sources.
+. Integrate as much of a user's personal information as feasible and provide an *integrated view* on all local and eventually remote sources.
 The information should be searchable, filterable and editable.
-* The platform should allow easy extension (as well as reduction) of functionality, for which as much as possible will be realized as plugins for some kind of *Micro Kernel*.
-* The application will encourage the use of *lightweight markup languages* and *local storage* to preserve the personal information sovereignity.
-* Every view in the application (even on single files) is accessible using *stable URLs*, even if the storage location may change.
+. Suitable for multiple types of (textual) resources: notes, tasks, playlists, slideshows, bookmarks, blog posts etc.
+. *Slim UI* with browser-like navigation, history, bookmarks, session management and tab/window-handling.
+. The platform should allow easy extension (as well as reduction) of functionality, for which as much as possible will be realized as plugins for some kind of *Micro Kernel*.
+. The application will encourage the use of *lightweight markup languages* and *local storage* to preserve the personal information sovereignity.
+. Every view in the application (even on single files) is accessible using *stable URLs*, even if the storage location may change.
 
 == Technology
 
@@ -14,8 +16,13 @@ The information should be searchable, filterable and editable.
 * The modern UI will be realized with *JavaFX* assisted by an an embedded web server, probably *Jetty*.
 * Search will be based on *Lucene*, or maybe Elastic Search.
 * Initially supported textual markups are *Markdown* and *Asciidoc*.
+* Built with *Gradle*.
 
 == Inspirations
 
 * http://zim-wiki.org/[ZIM Desktop Wiki]
 * http://www.moo.do/[Moo.do] 
+
+=== Privacy
+* https://userdatamanifesto.org/[User data manifesto]
+* http://www.bittorrent.com/intl/de/sync[Bittorrent Sync]
