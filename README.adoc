@@ -20,7 +20,7 @@ The information should be searchable, filterable and editable.
 
 == Inspirations
 
-* http://zim-wiki.org/[ZIM Desktop Wiki]
+* http://zim-wiki.org/[ZIM Desktop Wiki] and http://rednotebook.sourceforge.net/[RedNotebook]
 * http://www.moo.do/[Moo.do] 
 * http://www.lighttable.com/[Light Table] and https://atom.io/[Atom]
 
