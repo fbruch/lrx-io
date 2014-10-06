@@ -15,13 +15,14 @@ The information should be searchable, filterable and editable.
 * In order to be platform independent and properly integrated into the user's desktop environment, the programming language will be *Java*. Other JVM languages should be easily usable as well.
 * The modern UI will be realized with *JavaFX* assisted by an an embedded web server, probably *Jetty*.
 * Search will be based on *Lucene*, or maybe Elastic Search.
-* Initially supported textual markups are *Markdown* and *Asciidoc*.
+* Initially supported textual markups are *Markdown* and *Asciidoctor*.
 * Built with *Gradle*.
 
 == Inspirations
 
 * http://zim-wiki.org/[ZIM Desktop Wiki]
 * http://www.moo.do/[Moo.do] 
+* http://www.lighttable.com/[Light Table] and https://atom.io/[Atom]
 
 === Privacy
 * https://userdatamanifesto.org/[User data manifesto]
