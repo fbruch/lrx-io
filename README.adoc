@@ -26,4 +26,4 @@ The information should be searchable, filterable and editable.
 
 === Privacy
 * https://userdatamanifesto.org/[User data manifesto]
-* http://www.bittorrent.com/intl/de/sync[Bittorrent Sync]
+* http://www.bittorrent.com/intl/de/sync[Bittorrent Sync] and https://ind.ie/pulse/[ind.ie pulse]
