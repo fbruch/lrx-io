@@ -8,22 +8,21 @@ The information should be searchable, filterable and editable.
 . *Slim UI* with browser-like navigation, history, bookmarks, session management and tab/window-handling.
 . The platform should allow easy extension (as well as reduction) of functionality, for which as much as possible will be realized as plugins for some kind of *Micro Kernel*.
 . The application will encourage the use of *lightweight markup languages* and *local storage* to preserve the personal information sovereignity.
-. Every view in the application (even on single files) is accessible using *stable URLs*, even if the storage location may change.
+. Every view in the application (even on single files) is accessible using *stable URLs*, even if the storage locations may change.
 
 == Technology
 
 * In order to be platform independent and properly integrated into the user's desktop environment, the programming language will be *Java*. Other JVM languages should be easily usable as well.
 * The modern UI will be realized with *JavaFX* assisted by an an embedded web server, probably *Jetty*.
 * Search will be based on *Lucene*, or maybe Elastic Search.
-* Initially supported textual markups are *Markdown* and *Asciidoctor*.
+* Initially supported textual markups will be *Markdown* and *Asciidoctor*.
 * Built with *Gradle*.
 
 == Inspirations
 
-* http://zim-wiki.org/[ZIM Desktop Wiki] and http://rednotebook.sourceforge.net/[RedNotebook]
-* http://www.moo.do/[Moo.do] 
-* http://www.lighttable.com/[Light Table] and https://atom.io/[Atom]
+* http://zim-wiki.org/[ZIM Desktop Wiki]
+* http://rednotebook.sourceforge.net/[RedNotebook]
 
 === Privacy
 * https://userdatamanifesto.org/[User data manifesto]
-* http://www.bittorrent.com/intl/de/sync[Bittorrent Sync] and https://ind.ie/pulse/[ind.ie pulse]
+* http://www.bittorrent.com/intl/de/sync[Bittorrent Sync] and https://syncthing.net/[Syncthing]
